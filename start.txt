@@ -6,3 +6,5 @@ a patra modificare
 =======
 modificarea bugului nr 4
 >>>>>>> Stashed changes
+A fost odata ca-n povesti,
+ca am fixat un bug
