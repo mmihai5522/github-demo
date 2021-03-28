@@ -1,4 +1,8 @@
 "Acest fisier este pentru start "
 Pentru ce a doua modificare
 Ce-a de a treia modificare
+<<<<<<< Updated upstream
 a patra modificare
+=======
+modificarea bugului nr 4
+>>>>>>> Stashed changes
