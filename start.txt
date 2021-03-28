@@ -1,1 +1,2 @@
-"Acest fisier este pentru start"
+"Acest fisier este pentru start "
+Pentruo a doua modificare
